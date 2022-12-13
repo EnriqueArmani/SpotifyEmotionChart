@@ -18,7 +18,7 @@
   "homepage": "https://github.com/EnriqueArmani/SpotifyEmotionChart#readme",
   "dependencies": {
     "ejs": "^2.7.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-vue": "^5.14.1",
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
